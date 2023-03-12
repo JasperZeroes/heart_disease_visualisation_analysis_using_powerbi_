@@ -1,4 +1,4 @@
-<h1>Personal Key Indicators of Heart Disease Analysis using Power BI <img width=125 align=right src="https://storage.googleapis.com/kaggle-datasets-images/1936563/3189208/5abb971a28726c55b73b835df915118d/dataset-cover.jpg?t=2022-02-15-19-43-13"> </h1>
+<h1>Personal Key Indicators of Heart Disease Analysis using Power BI <img width=125 align=right src="https://github.com/JasperZeroes/Data_visualisation/blob/master/dataset-cover.jpg"> </h1>
 
 ## Overview  
 Heart diseases also known as Cardiovascular diseases (CVDs) are the leading cause of death globally, taking an estimated 17.9 million lives each year. In the USA alone, it is the causes of death for people of most races (African Americans, American Indians, Alaska Natives, and white people). About half of all Americans (47%) have at least 1 of 3 key risk factors for heart disease: high blood pressure, high cholesterol, and smoking.
