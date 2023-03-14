@@ -102,6 +102,20 @@ Heart Disease diagnosis is most positively affected by the following factors:
    Offer possible explanation for why (Look into Maryam's research) ! [Include image from dashboard]
 
 
+# 
+Introduction:
+Heart disease, including coronary heart disease (CHD) and myocardial infarction (MI), is a major cause of morbidity and mortality worldwide. In this white paper, we analyze a dataset to determine the major factors that contribute to the likelihood of developing heart disease. We used PowerBi to visualize and analyze the data and found that age, mental health, smoking, and race were major factors.
+
+Methodology:
+The dataset used in this analysis contains 18 attributes, including heart disease status, body mass index (BMI), smoking status, alcohol drinking status, stroke history, physical health, mental health, difficulty walking, gender, age category, race, diabetic status, physical activity, general health, sleep time, asthma history, kidney disease history, and skin cancer history. We used PowerBi to create visualizations and explore the relationships between these attributes and heart disease status.
+
+Findings:
+Our analysis revealed that age was the strongest predictor of heart disease. People aged 65 and over had the highest likelihood of developing heart disease, while those aged 18-24 had the lowest likelihood. Mental health was also strongly associated with heart disease status. Individuals who reported poor mental health in the past 30 days had a significantly higher likelihood of having heart disease. Smoking was another major factor, with smokers having a significantly higher likelihood of developing heart disease compared to non-smokers. Race was also found to be a significant factor, with non-Hispanic Whites having a higher likelihood of heart disease than other racial groups.
+
+Other factors that were found to be associated with heart disease status included BMI, alcohol drinking status, stroke history, physical health, diabetic status, and physical activity. Individuals with higher BMI, a history of stroke, poor physical health, or diabetes were more likely to have heart disease. However, engaging in physical activity was associated with a lower likelihood of heart disease, while heavy alcohol drinking was associated with a higher likelihood.
+
+Conclusion:
+Our analysis highlights age, mental health, smoking, and race as major factors associated with heart disease. These findings can be used to develop targeted interventions and prevention strategies to reduce the incidence and prevalence of heart disease. Further research is needed to explore the underlying mechanisms that link these factors to heart disease and to identify additional risk factors that may be important for prevention and treatment.
 
 
 ## Reference
