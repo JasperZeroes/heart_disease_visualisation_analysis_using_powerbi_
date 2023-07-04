@@ -1,6 +1,4 @@
 # Data_visualisation Project
-This is a group project on Data visualisation and Exploratory Data Analysis
-
 # Personal Key Indicators of Heart Disease 
 
 This dataset contains data from the 2020 annual CDC survey of 400,000 adults in the US about their health status, specifically focusing on key indicators of heart disease. Heart disease is a leading cause of death in the US, affecting people of most races. The dataset includes variables such as high blood pressure, high cholesterol, smoking, diabetic status, obesity, physical activity, and alcohol consumption.
