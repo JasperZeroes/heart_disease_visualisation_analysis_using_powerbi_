@@ -63,61 +63,34 @@ Here, we’ve used the 2020 annual CDC survey data of 300k+ adults related to th
 <details><summary><b>Key Influencers</b></summary> 
 
    
-   1. The key influencers tab should display the key factors affecting the value selected. In our case, the top factor that results in positive diagnosis of Heart Disease is [Name of feature/variable]. 
-   2. On the other side, we may include a column chart or a scatter plot showing the distribution of the selected factor.
+   The key influencers, in our case, are the top factor that results in positive diagnosis of Heart Disease. They include ;
+   * Age
+   * Mental Health status
+   * Smoking status
+   * Race
    
 
 </details>
-<details><summary><b>Top Segments</b></summary>
-   
-   1. The top segments tab may display the top segments that are identified by Power BI from the dataset for the metric selected. 
-   2. It initially shows the overview of all the segments. These segments can be ranked by the heart disease detected (True/False) and the number of patients (population size). [Include image from dashboard]
-   
-</details>
-   
-- The visualizations are filtered between Heart Disease Detected to be True or False.
-- Slicers are a way of filtering. They narrow the portion of the dataset that is shown in the other report visualizations. 
-  So, we might have two slicers one for filtering from the range of age, and another for filtering from different gender or both. [Include image from dashboard]
+
+## Findings
+Findings
+Our analysis, of the dataset, revealed that males were 1.6x more likely than females to have heart
+disease due to the effects of behavioural risk factors.
+Heart Disease diagnosis is most positively affected by the following 4 factors:
+1. Age: Older adults aged 60 and over are 3.6x more likely than Adults aged 31 – 59, and 21x more likely than young adults aged 18-30, to have heart disease. Heart disease can happen at any age, but the risk goes up as we age partly because they are more likely to develop risk factors for heart disease, such as high blood pressure, high cholesterol, obesity, diabetes, and a sedentary lifestyle.
+2. Mental health: Grouped into 3 categories as Extreme (>15), Serious (between 6 -15) and Mild (< 6).
+Individuals who reported poor mental health 6 – 15 times in the past 30 days had a significantly higher likelihood of having heart disease. 
+Mental health conditions such as anxiety and depression can cause physiological changes in the body that increase the risk of heart disease. For example, chronic stress can lead to high blood pressure and inflammation, which can damage the blood vessels and increase the risk of heart disease.
+3. Smoking: Smoking was another major factor, with smokers having a significantly higher likelihood of developing heart disease compared to non-smokers.
+This may be attributed to the negative effects of smoking on the blood vessels supplying blood to the heart, and on oxygen distribution.
+4. Race: Race was also found to be a significant factor, with Hispanic Whites and Asians having the lowest likelihood for heart disease than other racial groups.
+On further drilling , it was discovered it had more to do with the culture prevalent in those races rather than the race being a causal factor on its own.
 <br></br>
 
 ## Conclusion
-It was found, from the dataset, that males were 1.6x more likely than females to have heart disease, and is most common in the age ranging between 70-74 years. [Include image from dashboard]
-
-Heart Disease diagnosis is most positively affected by the following factors:
-
-   1. [Name of variable affecting heart disease], for [%age number of people affected] of the patients and this factor is [number of times] times more likely to cause the disease.
-
-   Offer possible explanation for why (Look into Maryam's research) ! [Include image from dashboard]
-
-   2. [Name of variable affecting heart disease], for [%age number of people affected] of the patients and this factor is [number of times] times more likely to cause the disease.
-
-   Offer possible explanation for why (Look into Maryam's research)! [Include image from dashboard]
-
-   3. [Name of variable affecting heart disease], for [%age number of people affected] of the patients and this factor is [number of times] times more likely to cause the disease.
-
-   Offer possible explanation for why (Look into Maryam's research)! [Include image from dashboard]
-
-   4. Other insights can come in here
-
-   Offer possible explanation for why (Look into Maryam's research) ! [Include image from dashboard]
-
-
-# 
-Introduction:
-Heart disease, including coronary heart disease (CHD) and myocardial infarction (MI), is a major cause of morbidity and mortality worldwide. In this white paper, we analyze a dataset to determine the major factors that contribute to the likelihood of developing heart disease. We used PowerBi to visualize and analyze the data and found that age, mental health, smoking, and race were major factors.
-
-Methodology:
-The dataset used in this analysis contains 18 attributes, including heart disease status, body mass index (BMI), smoking status, alcohol drinking status, stroke history, physical health, mental health, difficulty walking, gender, age category, race, diabetic status, physical activity, general health, sleep time, asthma history, kidney disease history, and skin cancer history. We used PowerBi to create visualizations and explore the relationships between these attributes and heart disease status.
-
-Findings:
-Our analysis revealed that age was the strongest predictor of heart disease. People aged 65 and over had the highest likelihood of developing heart disease, while those aged 18-24 had the lowest likelihood. Mental health was also strongly associated with heart disease status. Individuals who reported poor mental health in the past 30 days had a significantly higher likelihood of having heart disease. Smoking was another major factor, with smokers having a significantly higher likelihood of developing heart disease compared to non-smokers. Race was also found to be a significant factor, with non-Hispanic Whites having a higher likelihood of heart disease than other racial groups.
-
-Other factors that were found to be associated with heart disease status included BMI, alcohol drinking status, stroke history, physical health, diabetic status, and physical activity. Individuals with higher BMI, a history of stroke, poor physical health, or diabetes were more likely to have heart disease. However, engaging in physical activity was associated with a lower likelihood of heart disease, while heavy alcohol drinking was associated with a higher likelihood.
-
-Conclusion:
-Our analysis highlights age, mental health, smoking, and race as major factors associated with heart disease. These findings can be used to develop targeted interventions and prevention strategies to reduce the incidence and prevalence of heart disease. Further research is needed to explore the underlying mechanisms that link these factors to heart disease and to identify additional risk factors that may be important for prevention and treatment.
-
-
+The analysis highlights age, mental health, smoking, and race as major factors associated with heart disease. These findings can be used to develop targeted interventions and prevention strategies to reduce the incidence and prevalence of heart disease. Further research is needed to explore the
+underlying mechanisms that link these factors to heart disease and to identify additional risk factors that may be important for prevention and treatment.
+According to WHO, the effects of behavioural risk factors may show up in individuals. Identifying those at highest risk of CVDs and ensuring they receive appropriate treatment can prevent premature deaths.
 ## Reference
 
  - Dataset factors explanation – [https://www.kaggle.com/onatto/predicting-heart-disease-a-detailed-guide](https://www.kaggle.com/onatto/predicting-heart-disease-a-detailed-guide)
